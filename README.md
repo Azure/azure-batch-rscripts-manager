@@ -1,4 +1,10 @@
 # azure-batch-rscripts-manager
+
+
+This project is hosted at:
+
+  * https://github.com/Azure/azure-batch-rscripts-manager
+
 Visual Studio Solution to manage execution and distribution of R scripts and data across multiple Azure batch nodes dynamically.
 
 This project has adopted the [Microsoft Open Source Code of
@@ -10,12 +16,7 @@ questions or comments.
 
 **This repo is heavily based on the work done by Ruben Pool (Ruben.Pool@microsoft.com) and Joep Fennema (Joep.Fennema@microsoft.com)**.
 
-
-This project is hosted at:
-
-  * https://github.com/Azure/azure-batch-rscripts-manager
-  
-  ## Reporting bugs
+## Reporting bugs
 
 Please report bugs  by opening an issue in the [GitHub Issue Tracker](https://github.com/Azure/azure-batch-rscripts-manager/issues)
 
